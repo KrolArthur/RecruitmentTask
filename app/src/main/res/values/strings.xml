@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RecruitmentTask</string>
+    <string name="logo">logo</string>
+    <string name="task1">Task1</string>
+    <string name="task2">Task2</string>
+    <string name="task3">Task3</string>
+    <string name="task4">Task4</string>
+    <string name="back">Back</string>
 </resources>
